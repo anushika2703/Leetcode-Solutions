@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anushika2703/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anushika2703/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
