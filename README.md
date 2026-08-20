@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
