@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushika2703/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anushika2703/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anushika2703/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
 | ------- |
