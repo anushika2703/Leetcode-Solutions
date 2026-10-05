@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushika2703/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0739-daily-temperatures](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
