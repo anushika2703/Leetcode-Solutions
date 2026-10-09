@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Tree
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
