@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushika2703/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anushika2703/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushika2703/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anushika2703/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/anushika2703/Leetcode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Dynamic Programming
 |  |
 | ------- |
